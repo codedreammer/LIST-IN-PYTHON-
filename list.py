@@ -29,3 +29,4 @@ print(marks)
 print(marks[1:3])
 print(marks[1:])
 
+
