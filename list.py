@@ -14,19 +14,30 @@ marks = [3,5, 6, "Akshay", True,'ok']
 #print(marks[5-3])
 #print(marks[2])
 
-if "6" in marks:
-    print("yes")
-else:
-    print("no")
+#if "6" in marks:
+   # print("yes")
+#else:
+  #  print("no")
+#
+#if "arry" in "akshay":
+ #   print("yes")
+#else:
+#    print("no")
+#
+#
+#print(marks)
+#print(marks[1:3])
+#print(marks[1:])
 
-if "arry" in "akshay":
-    print("yes")
-else:
-    print("no")
+#check list 
+list = ["apple","banana","oranga","mango"]
+if "apple" and "oranga" in list:
+    print("yes,'apple'is present")
 
+list = ["apple","mango","banana"]
 
-print(marks)
-print(marks[1:3])
-print(marks[1:])
+#Change a Range of Item Values
 
-
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "mango"]
+thislist[1:3] = ["blackcurrant", "watermelon"]
+print(thislist)
