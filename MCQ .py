@@ -1,17 +1,17 @@
 # List of questions
 questions = [
-    "What is the capital of France?",
-    "Which planet is known as the Red Planet?",
-    "What is the largest mammal?",
-    "Who wrote 'To Kill a Mockingbird'?"
+    "What is the capital of India?",
+    "What is the full form of HTML?",
+    "who is your life after choosing ENGINEERING!?",
+    "What is Happiness as an Engineer?"
 ]
 
 # List of options for each question
 options = [
-    ["a) Berlin", "b) Madrid", "c) Paris", "d) Rome"],
-    ["a) Earth", "b) Mars", "c) Jupiter", "d) Saturn"],
-    ["a) Elephant", "b) Blue Whale", "c) Giraffe", "d) Great White Shark"],
-    ["a) Harper Lee", "b) J.K. Rowling", "c) Ernest Hemingway", "d) Mark Twain"]
+    ["a) Uttrakhand", "b) Kerla", "c) Delhi", "d) Bihar"],
+    ["a) Hyp Markup Language", "b) Hypertext Markup Language", "c) Hypertext Mark Language", "d) Hypertext Markup Program"],
+    ["a) Fucked up", "b) All of these", "c) Dont't you dare to ask again", "d) don't know"],
+    ["a) Project completed", "b) Date with Crush", "c) Promotion", "d) Work from Home"]
 ]
 
 # List of correct answers
