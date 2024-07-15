@@ -32,6 +32,9 @@ def run_quiz(questions, options, correct_answers):
         else:
             print(f"Wrong! The correct answer is {correct_answers[i]}\n")
     print(f"Your final score is {score}/{len(questions)}/'Well Done!'")
+    if score == 4:
+        print("Well Done!")
+
     if score == 0:
         print("please try AGAIN!")
 
